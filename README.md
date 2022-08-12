@@ -1,1 +1,7 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tobias-tengler&hide_border=true&show_icons=true&hide_title=true&hide=stars&hide_rank=true&bg_color=00000000&text_color=666666&count_private=true)
+## Hi there 👋🏻
+
+My name's Tobias and I'm a Senior Software developer from Germany with a passion for anything OSS. 
+
+I mainly work with .NET and Typescript, but I always strive to choose the right tool for the job 💪🏻
+
+If you want to talk about my favorite technologies, React and GraphQL, or just have a quick chat, hit me up on twitter [@tobiastengler](https://twitter.comtobiastengler) 🚀
