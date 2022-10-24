@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-My name's Tobias and I'm a Senior Software developer from Germany with a passion for anything OSS. 
+My name's Tobias and I'm a Software developer from Germany with a passion for anything OSS. Currently based in Germany, but looking to re-locate to Vienna, Austria in the near future.
 
 I mainly work with .NET and Typescript, but I always strive to choose the right tool for the job 💪🏻
 
