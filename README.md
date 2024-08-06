@@ -1,5 +1,10 @@
-## Hi there 👋🏻
+<p align="center">
+  <img src="haru_sleeping.jpg" width="600" />
+</p>
 
-My name's Tobias and I'm a Software developer from Germany with a passion for anything OSS.
+Hey there 👋🏻 
 
-If you want to talk about my favorite technologies, React and GraphQL, or just have a quick chat, hit me up on twitter [@tobiastengler](https://twitter.com/tobiastengler) 🚀
+My name's Tobias and I'm a Software Engineer from Germany with a passion for GraphQL.<br/>
+Currently I'm working as a GraphQL Engineer on Switzerland's largest E-Commerce [galaxus.ch](https://galaxus.ch).<br/>
+I enjoy making developer's lives easier, so you'll catch me contributing improvements in various OSS projects.
+Oh, and could you tell that I love cats? 🐈
