@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="haru_sleeping.jpg" width="100%" />
-</p>
+<img src="haru_sleeping.jpg" width="600" />
 
 Hey there 👋🏻 
 
